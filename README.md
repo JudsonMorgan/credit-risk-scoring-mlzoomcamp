@@ -226,7 +226,7 @@ Python 3.11 is recommended. The project was developed using Python 3.11.7.
 ### Clone the Repository
 
 ```bash
-git clone <>
+git clone <https://github.com/JudsonMorgan/credit-risk-scoring-mlzoomcamp>
 cd credit-risk-scoring-mlzoomcamp
 ```
 
