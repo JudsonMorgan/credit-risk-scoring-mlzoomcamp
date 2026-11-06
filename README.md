@@ -226,7 +226,7 @@ Python 3.11 is recommended. The project was developed using Python 3.11.7.
 ### Clone the Repository
 
 ```bash
-git clone <https://github.com/JudsonMorgan/credit-risk-scoring-mlzoomcamp>
+git clone https://github.com/JudsonMorgan/credit-risk-scoring-mlzoomcamp.git
 cd credit-risk-scoring-mlzoomcamp
 ```
 
@@ -368,18 +368,15 @@ The prediction service was successfully tested locally using Docker.
 
 ## 13. Deployment Evidence
 
-The following screenshots document the FastAPI prediction service and API testing.
+The following screenshots demonstrate the working FastAPI prediction service.
 
 ### API Screenshot 1
-
 ![API Prediction 1](screenshots/API_Prediction_1.png)
 
 ### API Screenshot 2
-
 ![API Prediction 2](screenshots/API_Prediction_2.png)
 
 ### API Screenshot 3
-
 ![API Prediction 3](screenshots/API_Prediction_3.png)
 
 ## 14. Technologies Used
