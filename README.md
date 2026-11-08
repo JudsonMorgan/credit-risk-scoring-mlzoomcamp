@@ -60,7 +60,7 @@ Extract the Excel file and place it at:
 
 ## 3. Exploratory Data Analysis
 
-Exploratory data analysis was performed in `MidTerm Project.ipynb`.
+Exploratory data analysis was performed in `Notebook.ipynb`.
 
 The analysis included:
 
@@ -209,8 +209,8 @@ The local development directory also contains virtual environment files, Python 
 
 | File | Description |
 |---|---|
-| `MidTerm Project.ipynb` | Jupyter notebook containing EDA, model training, tuning, cross-validation, and evaluation |
-| `MidTerm Project.py` | Python script exported from the Jupyter notebook |
+| `Notebook.ipynb` | Jupyter notebook containing EDA, model training, tuning, cross-validation, and evaluation |
+| `Notebook.py` | Python script exported from the Jupyter notebook |
 | `train.py` | Standalone script for training and saving the final model |
 | `predict.py` | FastAPI application for serving predictions |
 | `test_predict.py` | Script for testing the prediction API |
